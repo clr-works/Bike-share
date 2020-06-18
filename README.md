@@ -5,6 +5,8 @@
 ### Geographic distribution of stations in the network
 ![newplot (6)](https://user-images.githubusercontent.com/37026778/85049350-da105100-b194-11ea-8176-f51eee82775e.png)
 
+![newplot (7)](https://user-images.githubusercontent.com/37026778/85049604-2e1b3580-b195-11ea-9c45-c63fba68d409.png)
+
 ### 1.1 Distribution of the duration in minutes of all trips in the network
 
 As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes; the distribution is
