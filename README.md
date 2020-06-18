@@ -22,15 +22,16 @@ With regards to the customers that start and end in the same station, it can be 
 
 ![duration_equalst_log](https://user-images.githubusercontent.com/37026778/85033495-4da86300-b181-11ea-8c88-7f1319d991cb.png)
 
-## 2 Total Trips by Day of the Week
+## 2.1 Total Trips by Day of the Week
+ 
 
-![trips_days](https://user-images.githubusercontent.com/37026778/85033533-5a2cbb80-b181-11ea-8a8e-59f628a4d2df.png)
+## 2.2 Total Trips by Month 
 
 ![trips per month](https://user-images.githubusercontent.com/37026778/85033556-5ef16f80-b181-11ea-8cc9-50363cc1139d.png)
 
-![trips per hour](https://user-images.githubusercontent.com/37026778/85033520-54cf7100-b181-11ea-97a1-90b19c71ea31.png)
+## Total Trips per hour
 
-### 1.3 Equal start and end stations. 
+![trips per hour](https://user-images.githubusercontent.com/37026778/85033520-54cf7100-b181-11ea-97a1-90b19c71ea31.png)
 
 
 
