@@ -10,8 +10,9 @@ highly skewed to the right with very few trips lasting around one hour.
 
 ![dist_duration](https://user-images.githubusercontent.com/37026778/85017944-9a357380-b16c-11ea-9acd-c33e83affaf6.png)
 
-### 1.2 Not equal start and end stations. It can be argued that the customers that take a bike to end a trip in a different
-station may show different behaviour from those that end the trip in the same station as it was started.
+### 1.2 Not equal start and end stations. 
+
+It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows 
 
 ![duration_nestat_log](https://user-images.githubusercontent.com/37026778/85033500-500abd00-b181-11ea-941e-ad1304a40d96.png)
 
