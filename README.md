@@ -4,7 +4,6 @@
 
 ### Geographic distribution of stations in the network
 
-![newplot (5)](https://user-images.githubusercontent.com/37026778/85049031-78e87d80-b194-11ea-9501-dd4409030ca2.png)
 
 ### 1.1 Distribution of the duration in minutes of all trips in the network
 
