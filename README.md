@@ -3,8 +3,12 @@
 ## Preliminary Comments
 
 ### Geographic distribution of stations in the network
+
+![heatmatp_sanfrancisco](https://user-images.githubusercontent.com/37026778/85060763-0d0f1080-b1a6-11ea-9038-effb5b2f9190.png)
+
 ### Geographic distribution of trips per station where they start
 
+![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85060755-097b8980-b1a6-11ea-9fb6-f8b2942317aa.png)
 
 ### 1.1 Distribution of the duration in minutes of all trips in the network
 
