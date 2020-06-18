@@ -14,7 +14,7 @@ highly skewed to the right with very few trips lasting around one hour.
 
 These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters.
 
-![distance of trips dist](https://user-images.githubusercontent.com/37026778/85045905-f1007480-b18f-11ea-8ac7-58ce87c74e54.png)
+
 
 ### 1.1 Total Trips by Day of the Week
 
