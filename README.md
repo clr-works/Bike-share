@@ -3,12 +3,18 @@
 ## Preliminary Comments
 
 
-### 1. Distribution of the duration in minutes of all trips in the network
+### 1.1 Distribution of the duration in minutes of all trips in the network
 
 As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes; the distribution is
 highly skewed to the right with very few trips lasting around one hour. 
 
 ![dist_duration](https://user-images.githubusercontent.com/37026778/85017944-9a357380-b16c-11ea-9acd-c33e83affaf6.png)
+
+### 1.2 Distribution of the distances in km for all trips.
+
+These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters.
+
+![distance of trips dist](https://user-images.githubusercontent.com/37026778/85045905-f1007480-b18f-11ea-8ac7-58ce87c74e54.png)
 
 ### 1.1 Total Trips by Day of the Week
 
@@ -42,4 +48,14 @@ With regards to the customers that start and end in the same station, it can be 
 
 ![duration_equalst_log](https://user-images.githubusercontent.com/37026778/85042974-24d99b00-b18c-11ea-8363-037437193548.png)
 
+### 3.1 Number of Trips started por city, showed in logarithmic scale
 
+![cities](https://user-images.githubusercontent.com/37026778/85045936-fcec3680-b18f-11ea-8c1e-8491c52a45dd.png)
+
+### 3.2 Heatmap San Francisco
+
+![heatmatp_sanfrancisco](https://user-images.githubusercontent.com/37026778/85045926-f8c01900-b18f-11ea-871c-b1d2b163a338.png)
+
+### 3.3 Heatmap Mountain View
+
+![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85045911-f362ce80-b18f-11ea-9509-3bc50ef5d7e4.png)
