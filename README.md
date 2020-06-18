@@ -12,14 +12,17 @@ highly skewed to the right with very few trips lasting around one hour.
 
 ### 1.2 Not equal start and end stations. 
 
-It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows 
+It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows interesting patters to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that is less strong over the weekend.
 
 ![duration_nestat_log](https://user-images.githubusercontent.com/37026778/85033500-500abd00-b181-11ea-941e-ad1304a40d96.png)
 
 ### 1.3 Equal start and end stations
 
+With regards to the customers that start and end in the same station, it can be noticed that, on the first place, they constitute only a % of those who end in a different station. Futhermore, the difference between customers and subscribers is less marked than in the previous case. We could potentially explain this assuming that these are customers that are most probably not working on a fixed schedule. Both customers and subscriber get more likely distributions over the weekend.
+
 ![duration_equalst_log](https://user-images.githubusercontent.com/37026778/85033495-4da86300-b181-11ea-8c88-7f1319d991cb.png)
 
+## 2 Total Trips by Day of the Week
 
 ![trips_days](https://user-images.githubusercontent.com/37026778/85033533-5a2cbb80-b181-11ea-8a8e-59f628a4d2df.png)
 
