@@ -3,9 +3,7 @@
 ## Preliminary Comments
 
 ### Geographic distribution of stations in the network
-![newplot (6)](https://user-images.githubusercontent.com/37026778/85049350-da105100-b194-11ea-8176-f51eee82775e.png)
 ### Geographic distribution of trips per station where they start
-![newplot (10)](https://user-images.githubusercontent.com/37026778/85052558-6cb2ef00-b199-11ea-9af1-41d70981130b.png)
 
 
 ### 1.1 Distribution of the duration in minutes of all trips in the network
