@@ -15,6 +15,8 @@
 As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes; the distribution is
 highly skewed to the right with very few trips lasting around one hour. 
 
+<img src="Images/dist_duration.png">
+
 ### 1.2 Distribution of the distances in km for all trips.
 
 These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters.
