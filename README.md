@@ -69,4 +69,4 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 4.1 Impact of Weather on activity
 
-![weather_impact](https://user-images.githubusercontent.com/37026778/85047694-7d139b80-b192-11ea-8625-62b2bae6433e.png)
+![weather_impact](https://user-images.githubusercontent.com/37026778/85105340-a53ee100-b20a-11ea-93ef-7979ab752fc7.png)
