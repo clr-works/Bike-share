@@ -2,8 +2,6 @@
 
 ## Preliminary Comments
 
-<img src="Images\weather_impact_week.png" width="400">
-
 ### Geographic distribution of stations in the network
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
@@ -69,6 +67,11 @@ With regards to the customers that start and end in the same station, it can be 
 
 ![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85104950-d79c0e80-b209-11ea-80e2-cbc3875d9510.png)
 
-### 4.1 Impact of Weather on activity
+### 4.1 Impact of Weather on activity during the Week
 
 ![weather_impact](https://user-images.githubusercontent.com/37026778/85110033-94926900-b212-11ea-9a86-a35993335703.png)
+
+### 4.2 Impact of Weather on activity during the weekend
+
+
+
