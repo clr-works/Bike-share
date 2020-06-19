@@ -2,6 +2,8 @@
 
 ## Preliminary Comments
 
+![](images/weather_impact_week.png)
+
 ### Geographic distribution of stations in the network
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
