@@ -56,6 +56,7 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 3.1 Number of Trips started por city, showed in logarithmic scale
 
+<img src="Images/cities.png">
 
 ### 3.2 Heatmap San Francisco
 
