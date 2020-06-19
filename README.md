@@ -25,19 +25,17 @@ These distances are approximated by the distance between start station and end s
 As noted in the previous section, day of the week is a very relevant variable to take into account.The majority of the trips
 occur during the week, where there is a marked difference in behaviour between customers and subscribers. The following graph confirms the relevance of the week vs weekend analysis
  
-![trips_days](https://user-images.githubusercontent.com/37026778/85037176-4a16db00-b185-11ea-8aee-3c3ead73d163.png)
 
 ### 1.2 Total Trips by Month 
 
 If we look at the impact of the month, we see the major impact is comparing July performance to December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%. They show similar behaviour over the weekend for the whole year.
 
-![trips per month](https://user-images.githubusercontent.com/37026778/85033556-5ef16f80-b181-11ea-8cc9-50363cc1139d.png)
+<img src="trips%20per%20hour.png">
 
 ### 1.3 Total Trips per Hour
 
 Trips per hour sheds further light over the difference between customers and subscribers. Subscribers show a marked behaviour over the week, linked to working hours (conmuting from work), while customers have a more equally distributed behaviour over the day.
 
-![trips per hour](https://user-images.githubusercontent.com/37026778/85033520-54cf7100-b181-11ea-97a1-90b19c71ea31.png)
 
 
 ### 2.1 Not equal start and end stations. 
