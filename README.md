@@ -2,7 +2,7 @@
 
 ## Preliminary Comments
 
-![](Images/weather_impact_week.png)
+<img src="Images\weather_impact_week.png" width="10">
 
 ### Geographic distribution of stations in the network
 
