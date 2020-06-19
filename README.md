@@ -48,17 +48,14 @@ Trips per hour sheds further light over the difference between customers and sub
 
 It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows interesting patters to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that is less strong over the weekend.
 
-![duration_nestat_log](https://user-images.githubusercontent.com/37026778/85043551-c6f98300-b18c-11ea-8de1-768311b6214f.png)
 
 ### 2.2 Equal start and end stations
 
 With regards to the customers that start and end in the same station, it can be noticed that, on the first place, they constitute only a % of those who end in a different station. Futhermore, the difference between customers and subscribers is less marked than in the previous case. We could potentially explain this assuming that these are customers that are most probably not working on a fixed schedule. Both customers and subscriber get more likely distributions over the weekend.
 
-![duration_equalst_log](https://user-images.githubusercontent.com/37026778/85042974-24d99b00-b18c-11ea-8363-037437193548.png)
 
 ### 3.1 Number of Trips started por city, showed in logarithmic scale
 
-![cities](https://user-images.githubusercontent.com/37026778/85045936-fcec3680-b18f-11ea-8c1e-8491c52a45dd.png)
 
 ### 3.2 Heatmap San Francisco
 
@@ -70,9 +67,17 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 4.1 Impact of Weather on activity during the Week
 
-![weather_impact](https://user-images.githubusercontent.com/37026778/85110033-94926900-b212-11ea-9a86-a35993335703.png)
+<img src="Images/weather_impact_week.png">
 
 ### 4.2 Impact of Weather on activity during the weekend
 
+<img src="Images/weather_impact_weekend.png">
 
+### 4.3 Hour impact by month, December
+
+<img src="Images/december.png">
+
+### 4.4 June
+
+<img src="Images/june.png">
 
