@@ -75,6 +75,7 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 4.3 Hour impact by month, December
 
+<img src="Images/december.png">
 
 ### 4.4 June
 
