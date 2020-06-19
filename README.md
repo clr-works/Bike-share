@@ -65,6 +65,8 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 3.3 Heatmap Mountain View
 
+![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85104950-d79c0e80-b209-11ea-80e2-cbc3875d9510.png)
+
 ### 4.1 Impact of Weather on activity
 
 ![weather_impact](https://user-images.githubusercontent.com/37026778/85047694-7d139b80-b192-11ea-8625-62b2bae6433e.png)
