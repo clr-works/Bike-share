@@ -30,11 +30,15 @@ occur during the week, where there is a marked difference in behaviour between c
 
 If we look at the impact of the month, we see the major impact is comparing July performance to December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%. They show similar behaviour over the weekend for the whole year.
 
-<img src="trips%20per%20hour.png">
+
+<img src="Images/trips%20per%20month.png">
+
 
 ### 1.3 Total Trips per Hour
 
 Trips per hour sheds further light over the difference between customers and subscribers. Subscribers show a marked behaviour over the week, linked to working hours (conmuting from work), while customers have a more equally distributed behaviour over the day.
+
+<img src="Images/trips%20per%20hour.png">
 
 
 
