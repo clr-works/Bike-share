@@ -25,6 +25,8 @@ These distances are approximated by the distance between start station and end s
 As noted in the previous section, day of the week is a very relevant variable to take into account.The majority of the trips
 occur during the week, where there is a marked difference in behaviour between customers and subscribers. The following graph confirms the relevance of the week vs weekend analysis
  
+<img src="Images/trips_days.png">
+ 
 
 ### 1.2 Total Trips by Month 
 
