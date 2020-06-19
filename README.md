@@ -61,11 +61,9 @@ With regards to the customers that start and end in the same station, it can be 
 
 ### 3.2 Heatmap San Francisco
 
-![heatmatp_sanfrancisco](https://user-images.githubusercontent.com/37026778/85045926-f8c01900-b18f-11ea-871c-b1d2b163a338.png)
+![heatmatp_sanfrancisco](https://user-images.githubusercontent.com/37026778/85104797-8db32880-b209-11ea-89c2-69fa6db7595a.png)
 
 ### 3.3 Heatmap Mountain View
-
-
 
 ### 4.1 Impact of Weather on activity
 
