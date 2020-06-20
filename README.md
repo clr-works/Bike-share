@@ -48,12 +48,11 @@ Trips per hour sheds further light over the difference between customers and sub
 <img src="Images/trips%20per%20hour.png">
 
 
-
 ### 2.1 Not equal start and end stations. 
 
 It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows interesting patters to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that is less strong over the weekend.
 
-<img src="Images/no_equal_dis.png">
+<img src="Images/not_equal_dis.png">
 
 ### 2.2 Equal start and end stations
 
