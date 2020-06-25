@@ -9,32 +9,32 @@ The net activity is highly variable among these districts, being San Francisco t
 The daily net activity is markedly higher during working days, registering two peaks at work-commuting hours (8 am and 5 pm). 
 The season affects both the total activity and the daily activity profile.
 
-The behavior of the clients,customers and subscriber is markedly different during the week days and almost identical during the weekends. Customers pay by ride use whereas subscribers pay an year long subscription.
+The behavior of the clients, customers and subscribers is markedly different during the week days and almost identical during the weekends. Customers pay by ride use, whereas subscribers pay an year long subscription.
 
-The following study evaluates the incidence of variables including spatial (network size, station distribution and trip distances), temporal (season, day of the week, hour of the day) and meteorological (temperature, precipitations).
+The following study evaluates the incidence of variables including spatial (network size, station distribution and trip distances), temporal (season, day of the week, hour of the day) and meteorological (temperature, precipitations, sunset and sunrise).
  
 ### Figure 1. Geographic distribution of stations in the network
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
 
-The whole station network is distributed in five different districts (from north to south: San Francisco, Redwood, Palo Alto, Mountain View and San Jose) placed along the bay area. San Francisco and San Jose districts show densely clustered stations are in areas of a few square km. In each case, these clusters are separated from the nearest set of stations by more than 16 km (10 miles) and be considered isolated sub-networks. In contrast, the stations belonging to the remnant districts (Redwood, Palo Alto and Mountain View) are more continuously distributed in a common corridor, with some station-absent zones of a few miles. The proximity between these districts suggest that they can be considered a single cluster.
+The whole station network is distributed in five different districts (from north to south: San Francisco, Redwood, Palo Alto, Mountain View and San Jose) placed along the bay area. San Francisco and San Jose districts show densely clustered stations in areas of a few square km. In each case, these clusters are separated from the nearest set of stations by more than 16 km (10 miles) and be considered isolated sub-networks. In contrast, the stations belonging to the remnant districts (Redwood, Palo Alto and Mountain View) are more continuously distributed in a common corridor, with some station-absent zones of a few miles. The proximity between these districts suggest that they can be considered a single cluster.
 
 ### Figure 2. Geographic distribution of started trips by station
 
 ![newplot (15)](https://user-images.githubusercontent.com/37026778/85102635-5c385e00-b205-11ea-8b46-7be9324bd7cd.png)
 
-If the number of total trips initiated in each station (net activity) is plotted in the same map, it can be clearly noticed that San Francisco district accounts for a markedly higher total activity (four-fold) than any other district. The central corridor Redwood-Palo Alto-Mountain View accounts for the lowest activity.
+If the number of total trips initiated in each station (net activity) is plotted on the same map, it can be clearly noticed that San Francisco district accounts for a markedly higher total activity (four-fold) than any other district. The central corridor Redwood-Palo Alto-Mountain View accounts for the lowest activity.
 
-### Figure 3. Distribution of the duration in minutes of all trips in the network
+### Figure 3. Distribution of the duration in minutes of all trips.
 
 As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes, the distribution is
-highly skewed and asymmetric to the right with very few trips lasting around one hour.Outliers can be registered for trips lasting up to 80 minutes.
+highly skewed and asymmetric to the right with very few trips lasting around one hour. Outliers can be registered for trips lasting up to 80 minutes.
 
 <img src="Images/Dist_duration.png">
 
 ### Figure 4. Distribution of the distances in km for all trips.
 
-Among the total trips, the net distance between starting and ending station, depicts an analogous distribution as the trip duration, with a prevalence of trips shorter than 3 km an almost no trips longer than 10 km. Few outliers can be registered for trips demanding up to 50 km. For visualization purposes, the distribution shown is capped at 20km. Complete distribution can be shown in the jupyter notebook.
+Among the total trips, the net distance between starting and ending station, depicts an analogous distribution as the trip duration, with a prevalence of trips shorter than 3 km and almost no trips longer than 10 km. Few outliers can be registered for trips demanding up to 50 km. For visualization purposes, the distribution shown is capped at 20km. Complete distribution can be found in the jupyter notebook.
 
 <img src="Images/distance_20km.png">
 
@@ -55,7 +55,7 @@ If the former analysis is repeated along the year, the total trips are slightly 
 
 ### Figure 7. Total Trips per Hour
 
-Along working days, the total trips per hour shows a marked difference between customers and subscribers. Subscribers register two activity peaks, linked to working hours (commuting from work), while customers have a more equally distributed behaviour along the day. In agreement with previous information, during the weekend the behaviour of these clients is almost identical to customers’ one.
+Along working days, the total trips per hour shows a marked difference between customers and subscribers. Subscribers register two activity peaks, linked to working hours (commuting for and from work), while customers have a more equally distributed behaviour along the day. In agreement with previous information, during the weekend the behaviour of these clients is almost identical to customers’ one.
 
 <img src="Images/trips%20per%20hour.png">
 
@@ -70,7 +70,7 @@ Net displacements markedly prevail over round trips, irrespective of the client 
 
 ### Figure 9. Equal start and end stations
 
-<img src="Images/equal_stations_dis.png">
+     <img src="Images/equal_stations_dis.png">
 
 ### Figure 10. Number of Trips started por city, showed in logarithmic scale
 
