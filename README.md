@@ -2,7 +2,7 @@
 
 ## Preliminary Comments
 
-corina es una putaAs noted in
+The California Bike Share station network is distributed in different districts (San Francisco, San Jose, Redwood City, Mountain View and Palo Alto) placed along the bay area. San Francisco and San Jose stations are  densely clustered in areas of a few square km and separated from the nearest set of stations by more than xx km. Then, both San Francisco and San Jose stations can be considered isolated sub-networks. In contrast, the remnant stations are more continuously distributed in a common corridor, with minor station-abstent zones of a few miles. These claims can be sustained both by the inspection of maps provided below and by the distribution of the distances covered by the trips. The mean distance a 
 
 ### Geographic distribution of stations in the network
 
