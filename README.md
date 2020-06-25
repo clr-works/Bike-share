@@ -49,9 +49,7 @@ Concerning the total activity distribution along the week, it is opportune to di
 
 If the former analysis is repeated along the year, the total trips are slightly incremented during summer months, reaching minimum values at December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%.
 
-
 <img src="Images/trips%20per%20month.png">
-
 
 ### Figure 7. Total Trips per Hour
 
@@ -89,6 +87,9 @@ The total activity heatmap of San Francisco reveals that during the week, certai
 Mountain View district depicts a similar behavior as San Francisco
 
 ![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85104950-d79c0e80-b209-11ea-80e2-cbc3875d9510.png)
+
+### Figure 13. Heatmap San Francisco -- Subscribers
+
 
 ### Figure 13. Impact of Weather on activity during the Week
 
