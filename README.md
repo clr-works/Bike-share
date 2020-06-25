@@ -2,8 +2,14 @@
 
 ## Preliminary Comments
 
-The California Bike Share station network is distributed in different districts (San Francisco, San Jose, Redwood City, Mountain View and Palo Alto) placed along the bay area. San Francisco and San Jose stations are  densely clustered in areas of a few square km and separated from the nearest set of stations by more than xx km. Then, both San Francisco and San Jose stations can be considered isolated sub-networks. In contrast, the remnant stations are more continuously distributed in a common corridor, with minor station-abstent zones of a few miles. These claims can be sustained both by the inspection of maps provided below and by the distribution of the distances covered by the trips. The majority of trips cover a distance below 10 km (distance approximated as the linear distance between departing and arrival station). Figure for reference.
+The California Bike Share station network is highly discontinuous and extends along the bay area in five districts, where the stations are highly clustered in areas of a few square km. Taking into account the typical intra-district length of the trips (a few kilometers and less than 20 minutes). San Francisco and San Jose can be treated as isolated networks and the central corridor (Redwood, Palo Alto and Mountain View) as a third one.
+The net activity is highly variable among these districts, being San Francisco the prevalent zone of activity; certain stations focus a significant fraction of the activity of each district.
+The daily net activity is markedly higher during working days, registering two peaks at work-commuting hours (8 am and 5 pm). 
+The season affects both the total activity and the daily activity profile.
+The behavior of the clients,customers and subscriber is markedly different during the week days and almost identical during the weekends. Customers pay by ride use whereas subscribers pay an year long subscription.
 
+The following study evaluates the incidence of variables including spatial (network size, station distribution and trip distances), temporal (season, day of the week, hour of the day) and meteorological (temperature, precipitations).
+ 
 ### Figure 1. Geographic distribution of stations in the network
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
@@ -21,14 +27,13 @@ highly skewed to the right with very few trips lasting around one hour.
 
 ### Figure 4. Distribution of the distances in km for all trips.
 
-These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters.
+These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters. The distribution is capped at 20 km
 
 <img src="Images/distance_20km.png">
 
 ### 1.1 Total Trips by Day of the Week
 
-As noted in the previous section, day of the week is a very relevant variable to take into account.The majority of the trips
-occur during the week, where there is a marked difference in behaviour between customers and subscribers. The following graph confirms the relevance of the week vs weekend analysis
+Day of the week is a very relevant variable to take into account.The following visualizations will prove our assertion.The majority of trips occur during the week, where there is a marked difference in behaviour between customers and subscribers. 
  
 <img src="Images/trips_days.png">
  
