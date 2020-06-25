@@ -14,33 +14,37 @@ The following study evaluates the incidence of variables including spatial (netw
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
 
+The whole station network is distributed in five different districts (from north to south: San Francisco, Redwood, Palo Alto, Mountain View and San Jose) placed along the bay area. San Francisco and San Jose districts show densely clustered stations are in areas of a few square km. In each case, these clusters are separated from the nearest set of stations by more than 16 km (10 miles) and be considered isolated sub-networks. In contrast, the stations belonging to the remnant districts (Redwood, Palo Alto and Mountain View) are more continuously distributed in a common corridor, with some station-absent zones of a few miles. The proximity between these districts suggest that they can be considered a single cluster.
+
 ### Figure 2. Geographic distribution of started trips by station
 
 ![newplot (15)](https://user-images.githubusercontent.com/37026778/85102635-5c385e00-b205-11ea-8b46-7be9324bd7cd.png)
 
+If the number of total trips initiated in each station (net activity) is plotted in the same map, it can be clearly noticed that San Francisco district accounts for a markedly higher total activity (four-fold) than any other district. The central corridor Redwood-Palo Alto-Mountain View accounts for the lowest activity.
+
 ### Figure 3. Distribution of the duration in minutes of all trips in the network
 
 As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes, the distribution is
-highly skewed to the right with very few trips lasting around one hour. 
+highly skewed and asymmetric to the right with very few trips lasting around one hour.Outliers can be registered for trips lasting up to 80 minutes.
 
 <img src="Images/Dist_duration.png">
 
 ### Figure 4. Distribution of the distances in km for all trips.
 
-These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters. The distribution is capped at 20 km
+Among the total trips, the net distance between starting and ending station, depicts an analogous distribution as the trip duration, with a prevalence of trips shorter than 3 km an almost no trips longer than 10 km. Few outliers can be registered for trips demanding up to 50 km. For visualization purposes, the distribution shown is capped at 20km. Complete distribution can be shown in the jupyter notebook.
 
 <img src="Images/distance_20km.png">
 
 ### 1.1 Total Trips by Day of the Week
 
-Day of the week is a very relevant variable to take into account.The following visualizations will prove our assertion.The majority of trips occur during the week, where there is a marked difference in behaviour between customers and subscribers. 
+Concerning the total activity distribution along the week, it is opportune to discriminate the clients as customers and subscribers, according to the type of their contract. The majority of the trips occur during the week, where the activity of subscribers is almost ten-fold higher than that of customers. During the weekend this activity decays and converges to the typical values of customers.
  
 <img src="Images/trips_days.png">
  
 
 ### 1.2 Total Trips by Month 
 
-If we look at the impact of the month, we see the major impact is comparing July performance to December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%. They show similar behaviour over the weekend for the whole year.
+If the former analysis is repeated along the year, the total trips are slightly incremented during summer months, reaching minimum values at December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%.
 
 
 <img src="Images/trips%20per%20month.png">
@@ -48,14 +52,16 @@ If we look at the impact of the month, we see the major impact is comparing July
 
 ### 1.3 Total Trips per Hour
 
-Trips per hour sheds further light over the difference between customers and subscribers. Subscribers show a marked behaviour over the week, linked to working hours (conmuting from work), while customers have a more equally distributed behaviour over the day.
+Along working days, the total trips per hour shows a marked difference between customers and subscribers. Subscribers register two activity peaks, linked to working hours (commuting from work), while customers have a more equally distributed behaviour along the day. In agreement with previous information, during the weekend the behaviour of these clients is almost identical to customers’ one.
 
 <img src="Images/trips%20per%20hour.png">
 
 
 ### 2.1 Not equal start and end stations. 
 
-It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started. An additional separation between subscribers and occasional customers shows interesting patters to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that is less strong over the weekend.
+It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started (no displacement vs net displacement). An additional separation between subscribers and occasional customers shows interesting patterns to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that vanishes over the weekend.
+
+Net displacements markedly prevail over round trips, irrespective of the client type.
 
 <img src="Images/not_equal_dis.png">
 
