@@ -1,6 +1,6 @@
 # Bay Area Bike Share System
 
-## Preliminary Comments
+## Preliminary Comments 
 
 The California Bike Share station network is highly discontinuous and extends along the bay area in five districts, where the stations are highly clustered in areas of a few square km. Taking into account the typical intra-district length of the trips (a few kilometers and less than 20 minutes), San Francisco and San Jose can be treated as isolated networks and the central corridor (Redwood, Palo Alto and Mountain View) as a third one.
 
@@ -70,11 +70,11 @@ Net displacements markedly prevail over round trips, irrespective of the client 
 
 ### Figure 9. Equal start and end stations
 
-     <img src="Images/equal_stations_dis.png">
+<img src="Images/equal_stations_dis.png">
 
 ### Figure 10. Number of Trips started por city, showed in logarithmic scale
 
-For each one of the main districts, the total amount of customer’s trips remains invariant from week to weekend days. Subscribers dominate the activity in each district during the week while during the weekend, their activity decays to the values exhibited by customers or even lower.
+ For each one of the main districts, the total amount of customer’s trips remains invariant from week to weekend days. Subscribers dominate the activity in each district during the week while during the weekend, their activity decays to the values exhibited by customers or even lower.
 
 <img src="Images/cities.png">
 
