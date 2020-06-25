@@ -97,10 +97,10 @@ Mountain View district depicts a similar behavior as San Francisco
 
 ### Figure 15. Hour impact by season, December
 
-<img src="Images/December.png">
-
 During working days, subscriber’s peak activity remains defined at the same hours of the day; in summer, these peaks are markedly incremented; customers activity behaves more constantly.
 During the weekends both type of clients behaves similar independently of the season. However, their maximum activity decays from 3 pm to 6 pm in winter instead of the smoother decay (from 2 pm to 9 pm) observed in summer.
+
+<img src="Images/December.png">
 
 ### Figure 16. Hour impact by season, June
 
