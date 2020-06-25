@@ -2,10 +2,13 @@
 
 ## Preliminary Comments
 
-The California Bike Share station network is highly discontinuous and extends along the bay area in five districts, where the stations are highly clustered in areas of a few square km. Taking into account the typical intra-district length of the trips (a few kilometers and less than 20 minutes). San Francisco and San Jose can be treated as isolated networks and the central corridor (Redwood, Palo Alto and Mountain View) as a third one.
+The California Bike Share station network is highly discontinuous and extends along the bay area in five districts, where the stations are highly clustered in areas of a few square km. Taking into account the typical intra-district length of the trips (a few kilometers and less than 20 minutes), San Francisco and San Jose can be treated as isolated networks and the central corridor (Redwood, Palo Alto and Mountain View) as a third one.
+
 The net activity is highly variable among these districts, being San Francisco the prevalent zone of activity; certain stations focus a significant fraction of the activity of each district.
+
 The daily net activity is markedly higher during working days, registering two peaks at work-commuting hours (8 am and 5 pm). 
 The season affects both the total activity and the daily activity profile.
+
 The behavior of the clients,customers and subscriber is markedly different during the week days and almost identical during the weekends. Customers pay by ride use whereas subscribers pay an year long subscription.
 
 The following study evaluates the incidence of variables including spatial (network size, station distribution and trip distances), temporal (season, day of the week, hour of the day) and meteorological (temperature, precipitations).
