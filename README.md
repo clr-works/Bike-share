@@ -67,8 +67,6 @@ Net displacements markedly prevail over round trips, irrespective of the client 
 
 ### 2.2 Equal start and end stations
 
-With regards to the customers that start and end in the same station, it can be noticed that, on the first place, they constitute only a % of those who end in a different station. Futhermore, the difference between customers and subscribers is less marked than in the previous case. We could potentially explain this assuming that these are customers that are most probably not working on a fixed schedule. Both customers and subscriber get more likely distributions over the weekend.
-
 <img src="Images/equal_stations_dis.png">
 
 ### 3.1 Number of Trips started por city, showed in logarithmic scale
