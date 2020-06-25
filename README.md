@@ -8,18 +8,18 @@ The California Bike Share station network is distributed in different districts 
 
 ![newplot (14)](https://user-images.githubusercontent.com/37026778/85102706-7bcf8680-b205-11ea-84f7-e94512f3e815.png)
 
-### Figure 2 Geographic distribution of started trips by station
+### Figure 2. Geographic distribution of started trips by station
 
 ![newplot (15)](https://user-images.githubusercontent.com/37026778/85102635-5c385e00-b205-11ea-8b46-7be9324bd7cd.png)
 
-### 1.1 Distribution of the duration in minutes of all trips in the network
+### Figure 3. Distribution of the duration in minutes of all trips in the network
 
-As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes; the distribution is
+As we can see from the distribution graph, the majority of trips take a duration of around 10 minutes, the distribution is
 highly skewed to the right with very few trips lasting around one hour. 
 
 <img src="Images/Dist_duration.png">
 
-### 1.2 Distribution of the distances in km for all trips.
+### Figure 4. Distribution of the distances in km for all trips.
 
 These distances are approximated by the distance between start station and end station,resulting in no estimation for the cases where the end and start station are the same. The purpuse is not to examine the km the riders ride, but to understand if the different cities in the network act as separate clusters.
 
