@@ -71,15 +71,21 @@ Net displacements markedly prevail over round trips, irrespective of the client 
 
 ### 3.1 Number of Trips started por city, showed in logarithmic scale
 
+For each one of the main districts, the total amount of customer’s trips remains invariant from week to weekend days. Subscribers dominate the activity in each district during the week while during the weekend, their activity decays to the values exhibited by customers or even lower.
+
 <img src="Images/cities.png">
 
 ### 3.2 Heatmap San Francisco
 
 ![heatmatp_sanfrancisco](https://user-images.githubusercontent.com/37026778/85104797-8db32880-b209-11ea-89c2-69fa6db7595a.png)
 
+The total activity heatmap of San Francisco reveals that during the week, certain stations prevail over the rest, either in the case of customers and subscribers. However, their location is different depending on the client type. During the weekend these differences between clients fade and the location of hot spots changes, driven by the prevalent activity of customers.
+
 ### 3.3 Heatmap Mountain View
 
 ![mountain view heatmap](https://user-images.githubusercontent.com/37026778/85104950-d79c0e80-b209-11ea-80e2-cbc3875d9510.png)
+
+Mountain View district depicts a similar behavior as San Francisco
 
 ### 4.1 Impact of Weather on activity during the Week
 
@@ -92,6 +98,9 @@ Net displacements markedly prevail over round trips, irrespective of the client 
 ### 4.3 Hour impact by month, December
 
 <img src="Images/December.png">
+
+During working days, subscriber’s peak activity remains defined at the same hours of the day; in summer, these peaks are markedly incremented; customers activity behaves more constantly.
+During the weekends both type of clients behaves similar independently of the season. However, their maximum activity decays from 3 pm to 6 pm in winter instead of the smoother decay (from 2 pm to 9 pm) observed in summer.
 
 ### 4.4 June
 
