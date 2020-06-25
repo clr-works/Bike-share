@@ -35,14 +35,14 @@ Among the total trips, the net distance between starting and ending station, dep
 
 <img src="Images/distance_20km.png">
 
-### 1.1 Total Trips by Day of the Week
+### Figure 5. Total Trips by Day of the Week
 
 Concerning the total activity distribution along the week, it is opportune to discriminate the clients as customers and subscribers, according to the type of their contract. The majority of the trips occur during the week, where the activity of subscribers is almost ten-fold higher than that of customers. During the weekend this activity decays and converges to the typical values of customers.
  
 <img src="Images/trips_days.png">
  
 
-### 1.2 Total Trips by Month 
+### Figure 6. Total Trips by Month 
 
 If the former analysis is repeated along the year, the total trips are slightly incremented during summer months, reaching minimum values at December. Subscribers are impacted with a reduction of 40% whereas customers reduction in activity is around 30%.
 
@@ -50,14 +50,14 @@ If the former analysis is repeated along the year, the total trips are slightly 
 <img src="Images/trips%20per%20month.png">
 
 
-### 1.3 Total Trips per Hour
+### Figure 7. Total Trips per Hour
 
 Along working days, the total trips per hour shows a marked difference between customers and subscribers. Subscribers register two activity peaks, linked to working hours (commuting from work), while customers have a more equally distributed behaviour along the day. In agreement with previous information, during the weekend the behaviour of these clients is almost identical to customers’ one.
 
 <img src="Images/trips%20per%20hour.png">
 
 
-### 2.1 Not equal start and end stations. 
+### Figure 8. Not equal start and end stations. 
 
 It can be argued that the customers that take a bike in one station to end the trip in a different station may show different behaviour from those that end the trip in the same station as it was started (no displacement vs net displacement). An additional separation between subscribers and occasional customers shows interesting patterns to take into consideration. Over the week, we can hypothesize that the subscribers that start and end in a different station are those that go to work on a defined schedule. They show a marked difference from occasional customers, difference that vanishes over the weekend.
 
